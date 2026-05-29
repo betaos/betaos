@@ -23,8 +23,6 @@ FOCUS
 ├─ Data Platforms
 └─ Cybersecurity
 
-ORGANIZATION  : CEDHNL
-COMPANY       : STIAN
 
 MISSION
 Transform complex information
