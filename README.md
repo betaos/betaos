@@ -118,6 +118,21 @@ Bilingual information platform designed to support national and international vi
 
 ---
 
+### Aurum Fusion Bridge
+
+A unified operational platform that bridges satellite imagery, drone data, GIS layers, field information and enterprise databases to support analysis, collaboration and decision-making.
+
+🔗 https://mapp.decsef.com/Apps/?tenant=bits
+
+*Contact me for demonstration access.*
+
+**Learn More**
+
+- [Product Overview (Spanish)](https://docs.google.com/presentation/d/e/2PACX-1vQ90XzZ7Xepd9xZaQA3vS36as5H0D0n5dkNTFBrQiYeRbcYlmi8-J1ThfNNdEUXGkwARVWQR1AgG0iR/pub?start=false&loop=false&delayms=3000)
+
+
+---
+
 ## SELECTED HIGHLIGHTS
 
 - National Transparency Innovation Award-winning project
@@ -127,6 +142,7 @@ Bilingual information platform designed to support national and international vi
 - Data-driven decision support systems
 - Enterprise GIS and satellite imagery projects
 - Process automation and digital transformation initiatives
+- Multi-source geospatial intelligence platform (Aurum Fusion Bridge)
 
 ---
 
