@@ -34,6 +34,8 @@ into useful decisions.
 
 I help organizations, institutions and teams transform information into practical solutions that improve decision-making, operational efficiency and service delivery.
 
+Recipient of a National Transparency Innovation Award for the development of a public geospatial platform focused on social impact.
+
 My work combines:
 
 - Artificial Intelligence
