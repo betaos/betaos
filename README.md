@@ -1,6 +1,6 @@
 <div align="center">
 
-# Erik Salgado
+# Erik Salgado Estrada
 
 ### Technology Leader • AI • Geospatial Intelligence • Automation • Data Platforms
 
@@ -22,7 +22,6 @@ FOCUS
 ├─ Process Automation
 ├─ Data Platforms
 └─ Cybersecurity
-
 
 MISSION
 Transform complex information
@@ -78,6 +77,32 @@ Citizen-facing digital services, transparency initiatives and institutional info
 
 ## FEATURED DEPLOYMENTS
 
+### Aurum Fusion Bridge
+
+A unified operational platform that bridges satellite imagery, drone data, GIS layers, field information and enterprise databases to support analysis, collaboration and decision-making.
+
+🔗 https://mapp.decsef.com/Apps/?tenant=bits
+
+*Contact me for demonstration access.*
+
+**Learn More**
+
+- [Product Overview (Spanish)](https://docs.google.com/presentation/d/e/2PACX-1vQ90XzZ7Xepd9xZaQA3vS36as5H0D0n5dkNTFBrQiYeRbcYlmi8-J1ThfNNdEUXGkwARVWQR1AgG0iR/pub?start=false&loop=false&delayms=3000)
+
+---
+
+### FTTH Network Mapping Platform
+
+Platform designed for planning, inventory, maintenance and field data collection of Fiber-To-The-Home (FTTH) networks.
+
+The solution includes both web and mobile applications, enabling online and offline data capture, synchronization and network management workflows for field operations.
+
+🔗 https://mapp.decsef.com/Apps/?tenant=ftth
+
+*Contact me for demonstration access.*
+
+---
+
 ### Cartography of Violent Deaths of Women, Adolescents and Girls
 
 Award-winning public geospatial platform focused on transparency, visualization and territorial analysis.
@@ -102,14 +127,6 @@ Citizen platform that allows users to monitor the progress of their complaints o
 
 ---
 
-### Flood Monitoring Platform — Poza Rica, Veracruz
-
-Geospatial platform designed to analyze and visualize flood impacts using satellite imagery and spatial data.
-
-🔗 https://map.decsef.com
-
----
-
 ### DH26 — Human Rights Information Platform for World Cup 2026
 
 Bilingual information platform designed to support national and international visitors during the FIFA World Cup 2026.
@@ -118,18 +135,11 @@ Bilingual information platform designed to support national and international vi
 
 ---
 
-### Aurum Fusion Bridge
+### Flood Monitoring Platform — Poza Rica, Veracruz
 
-A unified operational platform that bridges satellite imagery, drone data, GIS layers, field information and enterprise databases to support analysis, collaboration and decision-making.
+Geospatial platform designed to analyze and visualize flood impacts using satellite imagery and spatial data.
 
-🔗 https://mapp.decsef.com/Apps/?tenant=bits
-
-*Contact me for demonstration access.*
-
-**Learn More**
-
-- [Product Overview (Spanish)](https://docs.google.com/presentation/d/e/2PACX-1vQ90XzZ7Xepd9xZaQA3vS36as5H0D0n5dkNTFBrQiYeRbcYlmi8-J1ThfNNdEUXGkwARVWQR1AgG0iR/pub?start=false&loop=false&delayms=3000)
-
+🔗 https://map.decsef.com
 
 ---
 
@@ -143,6 +153,7 @@ A unified operational platform that bridges satellite imagery, drone data, GIS l
 - Enterprise GIS and satellite imagery projects
 - Process automation and digital transformation initiatives
 - Multi-source geospatial intelligence platform (Aurum Fusion Bridge)
+- FTTH network planning and field operations platform
 
 ---
 
@@ -190,7 +201,6 @@ Need help with:
 </p>
 
 ---
-
 
 <div align="center">
 
